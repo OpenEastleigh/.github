@@ -1,2 +1,3 @@
 # .github
-Organization README
+
+Organization-wide defaults for all OpenEastleigh/* repos
